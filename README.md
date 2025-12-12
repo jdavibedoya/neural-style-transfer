@@ -14,7 +14,7 @@ NST is a deep learning optimization technique that combines the **content** of o
 
 ## 🖼️ Results
 
-Below is the transformation process: **Content Image** + **Style Image** = **Generated Output**.
+Below is the transformation process:
 ![Neural Style Transfer Process](images/example.png)
 
 ### 📝 Notes & Acknowledgments
