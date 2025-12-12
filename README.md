@@ -16,7 +16,7 @@ NST is a deep learning optimization technique that combines the **content** of o
 
 | Content Image ($C$) | Style Image ($S$) | Generated Output ($G$) |
 |:---:|:---:|:---:|
-| <img src="images/content.jpg" width="200"> | <img src="images/style.jpg" width="200"> | <img src="images/style_transferred.jpg" width="200"> |
+| <img src="images/Alf.jpg" width="200"> | <img src="images/Starry Night.jpg" width="200"> | <img src="images/style_transferred.jpg" width="200"> |
 
 ### 📝 Notes & Acknowledgments
 * **Inspiration:** This project is heavily inspired by the *Art Generation with Neural Style Transfer* final lab from the **Convolutional Neural Networks** course by DeepLearning.AI.
