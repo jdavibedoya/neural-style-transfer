@@ -10,7 +10,7 @@ NST is a deep learning optimization technique that combines the **content** of o
 * **Python 3**
 * **TensorFlow 2 / Keras**
 * **NumPy & Matplotlib**
-* **PIL** (Python Imaging Library)
+* **PIL**
 
 ## 🖼️ Results
 
